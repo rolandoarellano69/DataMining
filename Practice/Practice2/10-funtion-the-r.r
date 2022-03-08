@@ -33,3 +33,29 @@ box(col='blue')
 ?boxplot
 x <- c(8, 5, 14, 9, -9, 4, 6, 8, 7, -2, 0, 0, 0, 1)
 boxplot(x, horizontal = TRUE)
+
+#11.
+factorial(4)
+#12.
+ceiling(9.9)
+#13.
+floor(9.4)
+#14. 
+totalCaracteres <- nchar("Total de caracteres incluyento espacios")
+print(totalCaracteres)
+#15.
+textoMayusculas <- toupper("Texto en mayusculas")
+print(textoMayusculas)
+#16.
+TextoMinusculas <- tolower("Texto en minusculas")
+print(TextoMinusculas)
+#17. 
+round(15.6876,2)
+#18. 
+layout(matrix(1:4, 2, 2))
+layout.show(4)
+#19. 
+ls.str()
+#20.
+rm(name)
+
