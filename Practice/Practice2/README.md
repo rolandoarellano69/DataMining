@@ -73,3 +73,52 @@ x <- c(8, 5, 14, 9, -9, 4, 6, 8, 7, -2, 0, 0, 0, 1)
 boxplot(x, horizontal = TRUE)
 
 ```
+## 11. factorial of a number
+Factorize a selected number
+```r
+factorial(4)  = (24)
+```
+## 12. round a number up
+The data rounds it down
+```r
+ceiling (9.9) = 10
+```
+## 13. round a number down 
+```r
+ floor(9.4)=9
+ ```
+ ## 14. count the total charecters including scapes
+ ```r
+ totalCaracteres <- nchar("Total de caracteres incluyendo espacios")
+print(totalCaracteres)=39
+```
+## 15. uppercase characters
+ ```r
+ 
+textoMayusculas <- toupper("Texto en mayúsculas")
+print(textoMayusculas) = TEXTO EN MAYÚSCULAS
+```
+## 16. lowcase charecters
+```r
+TextoMinusculas <- tolower("Texto en minúsculas")
+print(TextoMinusculas)= texto en minúsculas 
+```
+## 17. round out
+round decimal numbers
+```r
+round(15.6876,2)
+```
+## 18. allows to display a graph
+```r
+layout(matrix(1:4, 2, 2))
+layout.show(4)
+```
+## 19. Show details of objects in memory
+```r
+ls.str()
+```
+## 20. delete object in memory
+```r
+rm(name)
+```
+
