@@ -31,6 +31,9 @@ qplot(data=fertility_x_expectancy, y=Life_Expectancy_2013, color=Region, x=Ferti
 
 ## Resulting scatter plot for 1960
 ![](https://github.com/rolandoarellano69/DataMining/blob/Unit1/Evaluation/Evaluation1/eval_1.png)
+In general life expectancy is less than in 2013 and Europe has the best quality of life because it has low birth rate but high life expectancy, in constrast Africa is very bad because a lot of people are born but they die very young.
+
 
 ## Resulting scatter plot for 2013
 ![](https://github.com/rolandoarellano69/DataMining/blob/Unit1/Evaluation/Evaluation1/eval_2.png)
+Life expectancy is better overall and most continents have better life expectancy and more controlled birth rate.
