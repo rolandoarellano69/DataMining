@@ -1,3 +1,4 @@
+# Evaluation Practice No. 1
 
 ## Code
 ```r
@@ -7,10 +8,10 @@ Life_Expectancy_At_Birth_2013 <- c(75.3286585365854,60.0282682926829,51.86617073
 
 #(c) Kirill Eremenko, www.superdatascience.com
 #importar datos de csv
-Fertility_Rates <-read.csv(file.choose())
-Fertility_Rates
+Fertility_Rates <-read.csv(file.choose()) #load the csv
+Fertility_Rates #testing the data, ignore this
 
-Fertility_Rates$Country.Name
+Fertility_Rates$Country.Name #testing column, ignore this
  #dataframe 
 fertility_x_expectancy <- data.frame(Region=Fertility_Rates$Region,Life_Expectancy_1960=Life_Expectancy_At_Birth_1960,Life_Expectancy_2013=Life_Expectancy_At_Birth_2013,Fertility_Rates=Fertility_Rates$Fertility.Rate
 fertility_x_expectancy
@@ -18,10 +19,10 @@ fertility_x_expectancy
 #scatter plot: (fertility, life expetancy) por país
 
 install.packages("ggplot2")
-library("ggplot2")
+library("ggplot2") #used for qplot
 #scatter plot 1960
 
-qplot(data=fertility_x_expectancy, y=Life_Expectancy_1960, color=Region, x=Fertility_Rates)
+qplot(data=fertility_x_expectancy, y=Life_Expectancy_1960, color=Region, x=Fertility_Rates) #color region will color by region with random colors
 #scatter plot 2013
 
 qplot(data=fertility_x_expectancy, y=Life_Expectancy_2013, color=Region, x=Fertility_Rates)
