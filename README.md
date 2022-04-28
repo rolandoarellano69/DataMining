@@ -1,1 +1,12 @@
 # DataMining
+
+  * Arellano Munguia Rolando 18210453
+  * Regalado Lopez Edgar Eduardo	18212254
+
+# Index
+
+## Unit 1 
+  * [Practice 1](https://github.com/rolandoarellano69/DataMining/tree/Unit1/Practice/Practice1)
+  * [Practice 2](https://github.com/rolandoarellano69/DataMining/tree/Unit1/Practice/Practice2)
+  * [Practice 3](https://github.com/rolandoarellano69/DataMining/tree/Unit1/Practice/Practice3)
+  * [Evaluation](https://github.com/rolandoarellano69/DataMining/tree/Unit1/Evaluation)
