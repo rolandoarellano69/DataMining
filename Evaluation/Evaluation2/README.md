@@ -21,7 +21,7 @@
 The goal of this practice was to replicate the graph shown here:
 ![](https://github.com/rolandoarellano69/DataMining/blob/Unit2/Evaluation/Evaluation2/goal_graph.png)
 
-with our own R code.
+with our own R code, which can be found [here](https://github.com/rolandoarellano69/DataMining/blob/Unit2/Evaluation/Evaluation2/practica_eval2.R)
 
 The dataset used for this practice was provided by the teacher and can be found [here](https://github.com/rolandoarellano69/DataMining/blob/Unit2/Evaluation/Evaluation2/project_data.csv)
 
