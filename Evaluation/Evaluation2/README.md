@@ -18,6 +18,8 @@
 
 # Evaluation Practice No. 2
 
+[The Video evidence for this practice can be found here](https://youtu.be/Z-hWOATtpjY)
+
 The goal of this practice was to replicate the graph shown here:
 ![](https://github.com/rolandoarellano69/DataMining/blob/Unit2/Evaluation/Evaluation2/goal_graph.png)
 
