@@ -38,7 +38,7 @@ f
 
 ##### Resultado:
 
-![](https://github.com/rolandoarellano69/DataMining/tree/Unit2/Practice/Unit2/Practice1/plot_scatter.png)
+![](https://github.com/rolandoarellano69/DataMining/blob/Unit2/Practice/Unit2/Practice1/plot_scatter.png)
 
 #### 2.2 Make some facets
 
@@ -49,6 +49,8 @@ f2
 ```
 
 ##### Resultado:
+
+![](https://github.com/rolandoarellano69/DataMining/blob/Unit2/Practice/Unit2/Practice1/plot_facets.png)
 
 #### 2.3 Make some themes and layers
 
@@ -61,3 +63,5 @@ f3
 ```
 
 ##### Resultado:
+
+![](https://github.com/rolandoarellano69/DataMining/blob/Unit2/Practice/Unit2/Practice1/plot_themes.png)
