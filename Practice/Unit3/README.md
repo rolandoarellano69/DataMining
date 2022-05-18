@@ -31,3 +31,4 @@ ggplot() +
   xlab('Years of experience') +
   ylab('Salary')
 ```
+
