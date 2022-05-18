@@ -16,6 +16,8 @@ ggplot() +
   xlab('Years of experience') +
   ylab('Salary')
 ```
+![sve](https://user-images.githubusercontent.com/80436392/168967654-1fc023d6-0b72-431a-947c-72f8cb75f358.PNG)
+
  
 
 #### The graph Salary Vs Experince (test set)
@@ -32,3 +34,4 @@ ggplot() +
   ylab('Salary')
 ```
 
+![svst](https://user-images.githubusercontent.com/80436392/168967703-59cd65be-c6af-4876-9260-affe381305a8.PNG)
