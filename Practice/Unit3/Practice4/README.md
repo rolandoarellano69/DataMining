@@ -96,8 +96,8 @@ For k = 5
 
 For training data:
 
-#[](https://github.com/rolandoarellano69/DataMining/blob/Unit3/Practice/Unit3/Practice4/img/resultados1.png)
+![](https://github.com/rolandoarellano69/DataMining/blob/Unit3/Practice/Unit3/Practice4/img/resultados1.png)
 
 For testing data:
 
-#[](https://github.com/rolandoarellano69/DataMining/blob/Unit3/Practice/Unit3/Practice4/img/resultados2.png)
+![](https://github.com/rolandoarellano69/DataMining/blob/Unit3/Practice/Unit3/Practice4/img/resultados2.png)
