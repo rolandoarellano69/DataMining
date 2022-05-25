@@ -1,5 +1,6 @@
 # set working directory
-setwd("Z:\\tec\\8vo\\mineria\\practicas\\evaluatoria3\\")
+getwd()
+setwd("/home/edgar/Desktop/Tec/mineria/Evaluatoria3/")
 
 #load the set of data and view it
 data <- read.csv("Social_Network_Ads.csv")
@@ -25,5 +26,6 @@ model_pred <- predict(model, test)
 model_pred #show the vector with the prediction
 con_matrix <- table(model_pred, test$Purchased) #generate confusion matrix
 con_matrix
-plot(con_matrix)
 
+# plot of the confusion matrix
+fourfoldplot(con_matrix, color = c("orange", "green"), main="Matriz de confusión para Social_Network_Ads")
