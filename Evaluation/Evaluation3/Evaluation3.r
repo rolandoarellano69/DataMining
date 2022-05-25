@@ -27,5 +27,9 @@ model_pred #show the vector with the prediction
 con_matrix <- table(model_pred, test$Purchased) #generate confusion matrix
 con_matrix
 
+library("caret")
+
+confusionMatrix(con_matrix)
+
 # plot of the confusion matrix
 fourfoldplot(con_matrix, color = c("orange", "green"), main="Matriz de confusión para Social_Network_Ads")
