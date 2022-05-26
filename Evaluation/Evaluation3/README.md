@@ -1,7 +1,7 @@
 # Evaluation Practice No. 3
 ## Naive Bayes
 
-## Video (poner link!)
+## [Video](https://youtu.be/JXaromZGqXw)
 
 ### Explanation
 
