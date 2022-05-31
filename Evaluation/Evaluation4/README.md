@@ -45,6 +45,8 @@ plot(1:10,
      ylab = 'WCSS')
 ```
 
+![](https://github.com/rolandoarellano69/DataMining/blob/Unit4/Evaluation/Evaluation4/img/codo.png)
+
 Using the elbow method withe the seed of 6 it was found that k = 3 is the best option for clustering, it means 3 clusters. So the kmeans function is called with the dataset setting centers as 3 which is k and y_kmeans being the cluster data
 ```r
 # k optimal, k = 3
