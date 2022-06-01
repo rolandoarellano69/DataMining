@@ -1,7 +1,7 @@
 # Evaluation Practice No. 4
 ## K-Means Clustering
 
-## [Video pendiente]()
+## [Video](https://www.youtube.com/watch?v=J4Iy_rZS4Hk)
 
 ### Explanation
 First the working directory is set up to work with the files in the current folder
